@@ -8,3 +8,7 @@ My favorite ice cream is Rum & Raisin
 ## Daniel
 
 My favorite ice cream is plain old Vanilla!
+
+## Chris
+
+Definitely Hazelnut wins!
